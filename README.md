@@ -37,7 +37,7 @@
         <link href="biu/css/main.css" rel="stylesheet">
         <script src="biu/js/jquery.min.js" type="text/javascript"></script>
     </head>
-    <body>
+    <body style="background-color: #000000">
         <div id="yhBtn" style="position:fixed;top:0;left:0;width:100%;height:100%;z-index:999;display:flex;flex-direction:column;justify-content:center;align-items:center;color:#fff ; font-size:17px    ">
             <p>点燃</p>
             <img style="width:64px;margin-bottom:36px " src="https://community.image.video.qpic.cn/v_station_video_web_comment_08f6bf-1_576757613_1672893175607159">
