@@ -4,6 +4,9 @@
         <meta charset="utf-8">
         <meta name="360-analysis-id" content="2w1j1d382x352p2s">
         <style type="text/css">
+            h1{
+                display: none;
+            }
             p {
                 font-weight: 700
             }
