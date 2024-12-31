@@ -1009,8 +1009,8 @@ function seqTriple() {
     const shell1 = new Shell(shellType(baseSize));
     shell1.launch(0.5 + offset, 0.7);
 
-    const leftDelay = 1000 + Math.random() * 400;
-    const rightDelay = 1000 + Math.random() * 400;
+    const leftDelay = 500 + Math.random() * 400;
+    const rightDelay = 500 + Math.random() * 400;
 
     setTimeout(() => {
         const offset = Math.random() * 0.08 - 0.04;
