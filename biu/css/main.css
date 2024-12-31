@@ -31,10 +31,6 @@
 }
 
 
-
-
-
-
 * {
     position: relative;
     box-sizing: border-box;
@@ -70,7 +66,15 @@ body {
     -webkit-filter: blur(12px);
     filter: blur(12px);
 }
+.markdown-body {
 
+
+}
+
+.markdown-body p{
+
+    
+}
 .container {
     height: 100%;
     display: -webkit-box;

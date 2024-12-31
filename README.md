@@ -8,6 +8,11 @@
             h1{
                 display:none;
             }
+            .container-lg {
+                width: 100%; /* 宽度占父元素的90%，可根据需要调整 */
+                margin-right: auto;
+                margin-left: auto;
+            }
             p {
                 font-weight: 700
             }
