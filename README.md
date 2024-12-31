@@ -3,9 +3,10 @@
         <meta name="baidu-analysis-id" content="1c1e2w372v2t1j37">
         <meta charset="utf-8">
         <meta name="360-analysis-id" content="2w1j1d382x352p2s">
-        <style type="text/css">
+        <title>🎇跨年烟花</title>
+         <style type="text/css">
             h1{
-                display: none;
+                display:none;
             }
             p {
                 font-weight: 700
@@ -23,7 +24,6 @@
                 font-family: "楷体"
             }
         </style>
-        <title>🎇跨年烟花</title>
         <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
