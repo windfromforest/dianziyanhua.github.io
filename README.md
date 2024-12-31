@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
     <head>
         <meta name="baidu-analysis-id" content="1c1e2w372v2t1j37">
